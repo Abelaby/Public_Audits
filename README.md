@@ -8,7 +8,7 @@ Contains all the issues find during public audit contests.
 |:-:|:-:|:-:|:--
 |1|[Beedle]()|CodeHawks|[3H/ 1L/ 1QA]()|
 |2|[Cooler Update]()|Sherlock|[1M]()|
-|3|[Centrifuge]()|Code4rena|[1M]()|
+|3|[Centrifuge]()|Code4rena|[1M](https://github.com/code-423n4/2023-09-centrifuge-findings/issues/542)|
 
 ## Preliminary results (Sherlock)
 
