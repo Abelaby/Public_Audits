@@ -6,7 +6,7 @@ Contains all the issues find during public audit contests.
 
 |Sl.no|Contest|Platform|Issues|
 |:-:|:-:|:-:|:--
-|1|[Beedle]()|CodeHawks|[3H/ 1L/ 1QA]()|
+|1|[Beedle]()|CodeHawks|[3H/ 1L/ 1QA](https://github.com/Abelaby/Public_Audits/blob/main/Audits/CodeHawks/Beedle/Findings.md)|
 |2|[Cooler Update]()|Sherlock|[1M]()|
 |3|[Centrifuge]()|Code4rena|[1M](https://github.com/code-423n4/2023-09-centrifuge-findings/issues/542)|
 
