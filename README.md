@@ -6,21 +6,22 @@ Contains all the issues find during public audit contests.
 
 |Sl.no|Contest|Platform|Issues|
 |:-:|:-:|:-:|:--
-|1|[Beedle]()|CodeHawks|[3H/ 1L/ 1QA](https://github.com/Abelaby/Public_Audits/blob/main/Audits/CodeHawks/Beedle/Findings.md)|
-|2|[Cooler Update]()|Sherlock|[1M]()|
-|3|[Centrifuge]()|Code4rena|[1M](https://github.com/code-423n4/2023-09-centrifuge-findings/issues/542)|
+|1|[Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)|CodeHawks|[3H/ 1L/ 1QA](https://github.com/Abelaby/Public_Audits/blob/main/Audits/CodeHawks/Beedle/Findings.md)|
+|2|[Cooler Update](https://audits.sherlock.xyz/contests/107)|Sherlock|[1M](https://github.com/sherlock-audit/2023-08-cooler-judging/issues/100)|
+|3|[Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top)|Code4rena|[1M](https://github.com/code-423n4/2023-09-centrifuge-findings/issues/542)|
 
 ## Preliminary results (Sherlock)
 
 |Sl.no|Contest|Platform|Issues|
 |:-:|:-:|:-:|:--
-|1|[Allo v2]()|Sherlock|[Findings]()|
+|1|[Allo v2](https://audits.sherlock.xyz/contests/109)|Sherlock|[Issues](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues)|
+|2|[Real wagmi](https://audits.sherlock.xyz/contests/118)|Sherlock|[Issues](https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues)|
 
 ## Awaiting result
 
 |Sl.no|Contest|Platform|Issues|
 |:-:|:-:|:-:|:--
-|1|[Certora-FV]()|Code4rena|[Escalations]()|
-|2|[ENS]()|Code4rena|[Escalations]()|
-|3|[Maia DAO- Ulysses]()|Code4rena|[Judging]()|
-|4|[Real wagmi]()|Sherlock|[Judging]()|
+|1|[Certora-FV](https://code4rena.com/contests/2023-08-certora-gmx-formal-verification)|Code4rena|[Escalations](https://www.dailywarden.com/)|
+|2|[ENS](https://code4rena.com/contests/2023-10-ens#top)|Code4rena|[Escalations](https://www.dailywarden.com/)|
+|3|[Maia DAO- Ulysses](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top)|Code4rena|[Judging](https://www.dailywarden.com/)|
+|4|[Ethena Labs](https://code4rena.com/contests/2023-10-ethena-labs#top)|Code4rena|[Judging](https://www.dailywarden.com/)|
