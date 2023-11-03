@@ -22,6 +22,5 @@ Contains all the issues find during public audit contests.
 |Sl.no|Contest|Platform|Issues|
 |:-:|:-:|:-:|:--
 |1|[Certora-FV](https://code4rena.com/contests/2023-08-certora-gmx-formal-verification)|Code4rena|[Escalations](https://www.dailywarden.com/)|
-|2|[ENS](https://code4rena.com/contests/2023-10-ens#top)|Code4rena|[Escalations](https://www.dailywarden.com/)|
-|3|[Maia DAO- Ulysses](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top)|Code4rena|[Judging](https://www.dailywarden.com/)|
-|4|[Ethena Labs](https://code4rena.com/contests/2023-10-ethena-labs#top)|Code4rena|[Judging](https://www.dailywarden.com/)|
+|2|[Maia DAO- Ulysses](https://code4rena.com/contests/2023-09-maia-dao-ulysses#top)|Code4rena|[Escalations](https://www.dailywarden.com/)|
+|3|[Ethena Labs](https://code4rena.com/contests/2023-10-ethena-labs#top)|Code4rena|[Judging](https://www.dailywarden.com/)|
