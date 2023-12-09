@@ -1,5 +1,14 @@
 # Public_Audits
-Contains all the issues find during public audit contests.
+Contains all the issues find during public audit contests and Bug bounties.
+
+
+## Immunefi
+
+|Sl.no|Protocol|Severity|Paid / Duplicate|Issue|
+|:-:|:-:|:-:|:-:|:--
+|1|[Arkham Intelligence](https://immunefi.com/bounty/arkham/)|High|Duplicate|Not disclosed|
+
+
 
 ## Found (Valid) vulnerabilities
 
@@ -13,6 +22,8 @@ Contains all the issues find during public audit contests.
 |5|[Certora-FV](https://code4rena.com/contests/2023-08-certora-gmx-formal-verification)|Code4rena|[Results]( https://docs.google.com/spreadsheets/d/1vXgsXgmfoD4ibqfL6dR018fXYJqXT6li-i1OrF424NA/edit#gid=1970712821)|
 |6|[Real wagmi](https://audits.sherlock.xyz/contests/118)|Sherlock|[1 H](https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues)|
 |7|[Ethena Labs](https://code4rena.com/contests/2023-10-ethena-labs#top)|Code4rena|[Results announced]()|
+
+
 
 ## Preliminary results (Sherlock)
 
