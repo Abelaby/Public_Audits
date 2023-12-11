@@ -7,6 +7,7 @@ Contains all the issues find during public audit contests and Bug bounties.
 |Sl.no|Protocol|Severity|Paid / Duplicate|Issue|
 |:-:|:-:|:-:|:-:|:--
 |1|[Arkham Intelligence](https://immunefi.com/bounty/arkham/)|High|Duplicate|Not disclosed|
+|2|[Arkham Intelligence](https://immunefi.com/bounty/arkham/)|Critical|Duplicate|Not disclosed|
 
 
 
