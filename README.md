@@ -8,6 +8,7 @@ Contains all the issues find during public audit contests and Bug bounties.
 |:-:|:-:|:-:|:-:|:--
 |1|[Arkham Intelligence](https://immunefi.com/bounty/arkham/)|High|Duplicate|Not disclosed|
 |2|[Arkham Intelligence](https://immunefi.com/bounty/arkham/)|Critical|Duplicate|Not disclosed|
+|3|[Defi Franc](https://www.defifranc.com/)|Critical|Out of scope, Project removed|Not disclosed|
 
 
 
