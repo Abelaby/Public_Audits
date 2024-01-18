@@ -5,11 +5,12 @@ Contains all the issues find during public audit contests and Bug bounties.
 ## Immunefi
 
 |Sl.no|Protocol|Severity|Paid / Duplicate|Issue|
-|:-:|:-:|:-:|:-:|:--
+|:-:|:-:|:-:|:-:|:-:
 |1|[Arkham Intelligence](https://immunefi.com/bounty/arkham/)|High|Duplicate|Not disclosed|
 |2|[Arkham Intelligence](https://immunefi.com/bounty/arkham/)|Critical|Duplicate|Not disclosed|
 |3|[Defi Franc](https://www.defifranc.com/)|Critical|Out of scope, Project removed|Not disclosed|
 |4|[LivePeer](https://immunefi.com/bounty/livepeer/)|Medium| $2.5k |Not disclosed|
+|5|[LivePeer](https://immunefi.com/bounty/livepeer/)|Critical| Immunefi mediation acknowledged the issue as valid, no reward since project does not intent to fix |-|
 
 
 
@@ -17,7 +18,7 @@ Contains all the issues find during public audit contests and Bug bounties.
 
 
 |Sl.no|Contest|Platform|Issues|
-|:-:|:-:|:-:|:--
+|:-:|:-:|:-:|:-:
 |1|[Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)|CodeHawks|[3H/ 1L/ 1QA](https://github.com/Abelaby/Public_Audits/blob/main/Audits/CodeHawks/Beedle/Findings.md)|
 |2|[Cooler Update](https://audits.sherlock.xyz/contests/107)|Sherlock|[1M](https://github.com/sherlock-audit/2023-08-cooler-judging/issues/100)|
 |3|[Centrifuge](https://code4rena.com/contests/2023-09-centrifuge#top)|Code4rena|[1M](https://github.com/code-423n4/2023-09-centrifuge-findings/issues/542)|
